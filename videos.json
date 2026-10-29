@@ -1259,60 +1259,6 @@
         "description": "Twin brothers Hal and Bill discover their father's mysterious wind-up toy monkey in the attic. Soon after, a series of horrifying deaths begins occurring around them. They attempt to get rid of the cursed toy, but years later the terrifying events return, forcing the brothers to confront the evil from their childhood.",
         "language": "eng"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     "hungergames": {
         "base_url": "https://startupmomentumengine.site/xpQeWoJG5/content/16ef5f179a23528b849f7faa6f060030/0f9b738af906eb91d8f5b3fab14e78cc",
         "length": 1708,
@@ -1411,6 +1357,154 @@
         "year": 2023,
         "studio": "Illumination Entertainment",
         "description": "The Mallard family lives a peaceful life in a small pond, but the adventurous mother and children convince their overprotective father to take a family vacation. They set off on a migration to Jamaica, encountering dangerous obstacles, unexpected friendships, and exciting adventures along the way.",
+        "language": "eng"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    "godzilla": {
+        "base_url": "https://visionaryfounderslab.site/zY9OovKZJ/content/1cf3c3ee51ed16d0c14cbeec8416bc68/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1475,
+        "second_lenght": 7380,
+        "title": "Godzilla",
+        "year": 2014,
+        "studio": "Legendary Pictures",
+        "description": "When ancient giant monsters awaken and begin causing destruction across the world, humanity discovers that Godzilla may be the only creature powerful enough to stop them. As the military attempts to contain the disaster, a soldier fights to protect his family from the terrifying creatures.",
+        "language": "eng"
+    },
+    "godzilla2": {
+        "base_url": "https://empoweredfreelancerhub.site/BTfHWu0Sm/content/db8955ec1b03e6f85314c8be4d17601a/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1578,
+        "second_lenght": 7920,
+        "title": "Godzilla: King of the Monsters",
+        "year": 2019,
+        "studio": "Legendary Pictures",
+        "description": "The secret scientific organization Monarch faces a worldwide crisis when enormous ancient monsters awaken. Godzilla battles powerful creatures including Mothra, Rodan, and the three-headed King Ghidorah as humanity struggles to survive the devastating conflict between the Titans.",
+        "language": "eng"
+    },
+    "godzillavskong": {
+        "base_url": "https://creativeentrepreneurhub.site/GSspJ8bAy/content/dbe7bf5b47d5b0971d6a82cdeb88c870/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1356,
+        "second_lenght": 6780,
+        "title": "Godzilla vs. Kong",
+        "year": 2021,
+        "studio": "Legendary Pictures",
+        "description": "When Godzilla unexpectedly begins attacking human cities, a scientific expedition transports the giant ape Kong to search for the legendary Hollow Earth. As the two powerful Titans collide in an epic battle, a mysterious conspiracy threatens to unleash an even greater danger.",
+        "language": "eng"
+    },
+    "godzillaxkong": {
+        "base_url": "https://smartincomeplaybook.site/1vyFaTULb/content/3ec50ce9e86c2ce3d4d49e8d03af7fd7/0f23fcf79be0e63ab6d07c73d2dcf717",
+        "length": 1386,
+        "second_lenght": 6900,
+        "title": "Godzilla x Kong: The New Empire",
+        "year": 2024,
+        "studio": "Legendary Pictures",
+        "description": "Godzilla and Kong must unite against a terrifying new threat hidden deep within the Hollow Earth. As Kong discovers more about his mysterious origins and encounters the powerful Skar King, the two legendary Titans must work together to prevent a catastrophic invasion of the surface world.",
+        "language": "eng"
+    },
+    "supermariobros": {
+        "base_url": "https://remoteconsultinggroup.site/Y7Q4ggbna/content/9298b9564631129fd8e08c50d07c45f0/16c5b70a2236e48b6863ced6558babf8",
+        "length": 1035,
+        "second_lenght": 5520,
+        "title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "studio": "Illumination Entertainment",
+        "description": "Brooklyn plumbers Mario and Luigi are transported through a mysterious pipe into the magical Mushroom Kingdom. When Luigi is captured by the evil Bowser, Mario teams up with Princess Peach, Toad, and Donkey Kong to rescue his brother and protect the kingdom from Bowser's army.",
+        "language": "eng"
+    },
+    "supermariogalaxy": {
+        "base_url": "https://quietmidnightgardeningideas.site/giwCCAWDg/content/d1a1360d7d0a0090b2d9f728761550dc/044136e2e5040a2a5214ed8fd17b155c",
+        "length": 1179,
+        "second_lenght": 5880,
+        "title": "The Super Mario Galaxy Movie",
+        "year": 2026,
+        "studio": "Illumination Entertainment",
+        "description": "Mario and Luigi embark on a new adventure that takes them beyond the Mushroom Kingdom and into outer space. As they explore extraordinary galaxies and encounter new friends including Rosalina and Yoshi, they must face Bowser Jr. and overcome dangerous challenges across the universe.",
+        "language": "eng"
+    },
+    "cloudywithachanceofmeatballs": {
+        "base_url": "https://digitalgrowthblueprint.site/Wn74UppRP/content/cd527d2c60ebf4cd89c01eae9495d29a/4819a13157d0a04e1f8d6c89893d4b4b",
+        "length": 1077,
+        "second_lenght": 5400,
+        "title": "Cloudy with a Chance of Meatballs",
+        "year": 2009,
+        "studio": "Sony Pictures Animation",
+        "description": "Flint Lockwood, an unsuccessful young inventor, creates a machine that can transform water into food. When the invention accidentally launches into the atmosphere, delicious meals begin raining from the sky. However, the machine soon becomes uncontrollable and creates enormous food storms that threaten the world.",
+        "language": "eng"
+    },
+    "cloudywithachanceofmeatballs2": {
+        "base_url": "https://premiumcontentengine.site/V65edTwK5/content/09c58851c5c09c8b3754e27ff9656e34/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1136,
+        "second_lenght": 5700,
+        "title": "Cloudy with a Chance of Meatballs 2",
+        "year": 2013,
+        "studio": "Sony Pictures Animation",
+        "description": "After the events of the first movie, Flint Lockwood discovers that his food-producing machine is still operating and has transformed his hometown into a jungle filled with living food creatures. Alongside his friends, Flint returns to the island to investigate the extraordinary food animals and stop a dangerous plan by his scientific idol Chester V.",
         "language": "eng"
     }
 }
