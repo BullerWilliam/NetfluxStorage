@@ -1448,5 +1448,121 @@
         "studio": "Walt Disney Animation France",
         "description": "Scrooge McDuck takes his nephews Huey, Dewey, and Louie on an expedition to Egypt in search of a legendary treasure. When they discover a mysterious magic lamp containing a friendly genie, they become involved in an adventure against the evil sorcerer Merlock, who wants to use the lamp's powers to conquer the world.",
         "language": "eng"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "bossbaby": {
+        "base_url": "https://dataanalyticsacademy.site/nnQPPoSQm/content/5a011962b3c2f51ad25b81ade92f3349/4819a13157d0a04e1f8d6c89893d4b4b",
+        "length": 1168,
+        "second_lenght": 5820,
+        "title": "The Boss Baby",
+        "year": 2017,
+        "studio": "DreamWorks Animation",
+        "description": "Seven-year-old Tim Templeton discovers that his new baby brother is actually a secret agent working for Baby Corp. Despite their rivalry, the brothers must work together to stop the CEO of Puppy Co. from carrying out a plan that threatens babies everywhere.",
+        "language": "eng"
+    },
+    "bossbaby2": {
+        "base_url": "https://remoteconsultinggroup.site/CdEjGIdUk/content/8ba08cb839c4efd3b33b66d6e0af58c6/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1286,
+        "second_lenght": 6420,
+        "title": "The Boss Baby: Family Business",
+        "year": 2021,
+        "studio": "DreamWorks Animation",
+        "description": "The Templeton brothers, Tim and Ted, have grown up and drifted apart. When Tim's infant daughter Tina reveals that she is a secret agent for Baby Corp, the brothers must become children again and work together to investigate a mysterious school and stop a villainous plan.",
+        "language": "eng"
+    },
+    "spongebob": {
+        "base_url": "https://scalableimpactgroup.site/PhLyBsOA1/content/d43b3b3545ccf6dbe9c2371580396f43/3f68f9e4b4b6d9aa0ec70607af517a46",
+        "length": 1044,
+        "second_lenght": 5220,
+        "title": "The SpongeBob SquarePants Movie",
+        "year": 2004,
+        "studio": "Nickelodeon Movies",
+        "description": "When King Neptune's crown is stolen and Mr. Krabs is falsely accused, SpongeBob SquarePants and his best friend Patrick Star embark on a dangerous journey to Shell City to recover the crown. Along the way, they must overcome terrifying obstacles and prove that they are more than just kids.",
+        "language": "eng"
+    },
+    "spongebob2": {
+        "base_url": "https://conversionfocusedstudio.site/TvthTexVJ/content/8ec5268dbce1fb13151e17af59a7c83e/9e523ae15b61dc766f5c818726881ecf",
+        "length": 1109,
+        "second_lenght": 5520,
+        "title": "The SpongeBob Movie: Sponge Out of Water",
+        "year": 2015,
+        "studio": "Paramount Animation",
+        "description": "When the secret Krabby Patty formula mysteriously disappears, Bikini Bottom falls into chaos. SpongeBob and his friends must travel to the surface world to recover the formula from a pirate named Burger Beard. They gain extraordinary superhero abilities and work together to save their underwater home.",
+        "language": "eng"
+    },
+    "spongebob3": {
+        "base_url": "https://leadgenerationblueprint.site/7or07NZrA/content/bd928418963924f4ce96e5e42ab6681f/d6f0e96cbc66ebb4e86f85b43bd34f7e",
+        "length": 1143,
+        "second_lenght": 5460,
+        "title": "The SpongeBob Movie: Sponge on the Run",
+        "year": 2020,
+        "studio": "Paramount Animation",
+        "description": "When SpongeBob's beloved pet snail Gary is kidnapped and taken to the Lost City of Atlantic City, SpongeBob and Patrick embark on an extraordinary rescue mission. Along the way, they encounter strange characters, face dangerous challenges, and discover the true meaning of friendship.",
+        "language": "eng"
+    },
+    "spongebob4": {
+        "base_url": "https://remoteconsultinggroup.site/CdEjGIdUk/content/25f75ce917b18f76326d4df4732a55c9/1a489963d7656acb9327bf9124035ba9",
+        "length": 1063,
+        "second_lenght": 5280,
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "year": 2025,
+        "studio": "Paramount Animation",
+        "description": "Determined to prove that he is a brave and grown-up sponge, SpongeBob embarks on an extraordinary adventure with Patrick. Their journey takes them into the deepest parts of the ocean, where they encounter the legendary ghost pirate known as the Flying Dutchman and face terrifying challenges.",
+        "language": "eng"
     }
 }
