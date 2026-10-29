@@ -1359,74 +1359,6 @@
         "description": "The Mallard family lives a peaceful life in a small pond, but the adventurous mother and children convince their overprotective father to take a family vacation. They set off on a migration to Jamaica, encountering dangerous obstacles, unexpected friendships, and exciting adventures along the way.",
         "language": "eng"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     "godzilla": {
         "base_url": "https://visionaryfounderslab.site/zY9OovKZJ/content/1cf3c3ee51ed16d0c14cbeec8416bc68/0f9b738af906eb91d8f5b3fab14e78cc",
         "length": 1475,
@@ -1505,6 +1437,16 @@
         "year": 2013,
         "studio": "Sony Pictures Animation",
         "description": "After the events of the first movie, Flint Lockwood discovers that his food-producing machine is still operating and has transformed his hometown into a jungle filled with living food creatures. Alongside his friends, Flint returns to the island to investigate the extraordinary food animals and stop a dangerous plan by his scientific idol Chester V.",
+        "language": "eng"
+    },
+    "ducktales": {
+        "base_url": "https://dataanalyticsacademy.site/LKINSJoNn/content/0c57f3f3dea68caea21279cc96b60082/c563b05b55142e7db547d1c42761a17a",
+        "length": 885,
+        "second_lenght": 4440,
+        "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+        "year": 1990,
+        "studio": "Walt Disney Animation France",
+        "description": "Scrooge McDuck takes his nephews Huey, Dewey, and Louie on an expedition to Egypt in search of a legendary treasure. When they discover a mysterious magic lamp containing a friendly genie, they become involved in an adventure against the evil sorcerer Merlock, who wants to use the lamp's powers to conquer the world.",
         "language": "eng"
     }
 }
