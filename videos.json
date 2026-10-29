@@ -789,64 +789,6 @@
         "description": "Scooby-Doo and the Mystery Inc. gang travel to Blowout Beach for a fun beach party. However, their vacation is interrupted when a group of ghost pirates begins terrorizing the area. The gang must investigate the mysterious pirates and save the beach celebration.",
         "language": "eng"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     "backrooms": {
         "base_url": "https://scalablecontentengine.site/eeAlaz2PX/content/a784dc911c7d9eeb0c2aaae3b9888343/1a489963d7656acb9327bf9124035ba9",
         "length": 1324,
@@ -975,6 +917,255 @@
         "year": 2000,
         "studio": "A. Film",
         "description": "Three children named Fly, Stella, and Chuck accidentally drink a mysterious potion that transforms them into sea creatures. Trapped underwater, they must find an antidote within 48 hours before their transformation becomes permanent, while facing an intelligent fish who wants to take over the ocean.",
+        "language": "eng"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "walle": {
+        "base_url": "https://nicheauthorityengine.site/JLjLTYvxQ/content/d4375ee2f02bc0a2e99f99f278992f25/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1177,
+        "second_lenght": 5880,
+        "title": "WALL-E",
+        "year": 2008,
+        "studio": "Pixar Animation Studios",
+        "description": "In a distant future where Earth has been abandoned by humanity, a lonely waste-collecting robot named WALL-E spends his days cleaning up the polluted planet. When he meets an advanced robot named EVE, he follows her into space and becomes involved in an adventure that could determine the future of humanity.",
+        "language": "eng"
+    },
+    "insideout": {
+        "base_url": "https://nextlevelbrandstudio.site/BYhrsmpUc/content/dcd657d3ca7fde2d39aa0173f678b80c/9e523ae15b61dc766f5c818726881ecf",
+        "length": 1134,
+        "second_lenght": 5700,
+        "title": "Inside Out",
+        "year": 2015,
+        "studio": "Pixar Animation Studios",
+        "description": "When 11-year-old Riley moves to San Francisco with her family, her emotions Joy, Sadness, Anger, Fear, and Disgust struggle to help her adjust. After Joy and Sadness accidentally become separated from headquarters, they must find their way back before Riley's emotional world falls apart.",
+        "language": "eng"
+    },
+    "insideout2": {
+        "base_url": "https://futurefocusedentrepreneurs.site/stha6fWKM/content/39a077281eea0b897d71780fa8f99e4d/044136e2e5040a2a5214ed8fd17b155c",
+        "length": 1155,
+        "second_lenght": 5760,
+        "title": "Inside Out 2",
+        "year": 2024,
+        "studio": "Pixar Animation Studios",
+        "description": "As Riley enters her teenage years, her mind undergoes major changes when new emotions including Anxiety, Envy, Embarrassment, and Ennui arrive at headquarters. Joy and the original emotions must adapt as Riley struggles with friendship, growing up, and discovering who she really is.",
+        "language": "eng"
+    },
+    "coco": {
+        "base_url": "https://startupmomentumengine.site/jJsZgnRXg/content/29390f9ea5ed74d7ec969f3d24e020fd/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1258,
+        "second_lenght": 6300,
+        "title": "Coco",
+        "year": 2017,
+        "studio": "Pixar Animation Studios",
+        "description": "Miguel, a young boy who dreams of becoming a musician despite his family's ban on music, accidentally enters the colorful Land of the Dead. With help from a charming skeleton named Hector, he sets out to discover the truth about his family's history and return to the living world.",
+        "language": "eng"
+    },
+    "findingnemo": {
+        "base_url": "https://onlinevisibilitysystem.site/SBzuCY2ts/content/7301ee38e4ad0fcfcbe4d357037b7955/9e523ae15b61dc766f5c818726881ecf",
+        "length": 1209,
+        "second_lenght": 6000,
+        "title": "Finding Nemo",
+        "year": 2003,
+        "studio": "Pixar Animation Studios",
+        "description": "When a young clownfish named Nemo is captured by a diver and taken to Sydney, his overprotective father Marlin sets out on a dangerous journey across the ocean to rescue him. Along the way, he meets a forgetful but friendly fish named Dory who helps him face sharks, jellyfish, and other dangers.",
+        "language": "eng"
+    },
+    "findingdory": {
+        "base_url": "https://digitalgrowthblueprint.site/f8Jw9G4t0/content/3e6f77eb7b4d2492ff395cfd742f407e/3f68f9e4b4b6d9aa0ec70607af517a46",
+        "length": 1163,
+        "second_lenght": 5820,
+        "title": "Finding Dory",
+        "year": 2016,
+        "studio": "Pixar Animation Studios",
+        "description": "Dory, a friendly blue tang fish with short-term memory loss, suddenly remembers that she has a family somewhere in the ocean. With help from Marlin and Nemo, she begins an extraordinary journey to find her long-lost parents, meeting new friends at a marine life institute along the way.",
+        "language": "eng"
+    },
+    "monstersinc": {
+        "base_url": "https://scalablecontentengine.site/0KfwZunYg/content/8356e8c37a22c4ffee508927c0850ed6/f4afc016a800ba375016f4bc9771890f",
+        "length": 1105,
+        "second_lenght": 5520,
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "studio": "Pixar Animation Studios",
+        "description": "In a world inhabited by monsters, the city of Monstropolis gets its power from the screams of human children. When two monster workers, Sulley and Mike Wazowski, accidentally let a little girl named Boo enter their world, they must protect her and uncover a dangerous conspiracy at their company.",
+        "language": "eng"
+    },
+    "up": {
+        "base_url": "https://influencerstrategygroup.site/GSspJ8bAy/content/27132b0d7ca5b69173f17b73cafcb113/9e523ae15b61dc766f5c818726881ecf",
+        "length": 1152,
+        "second_lenght": 5760,
+        "title": "Up",
+        "year": 2009,
+        "studio": "Pixar Animation Studios",
+        "description": "Carl Fredricksen, an elderly widower, fulfills his lifelong dream of adventure by attaching thousands of balloons to his house and flying to South America. However, he discovers that an enthusiastic young Wilderness Explorer named Russell has accidentally joined him on the journey.",
+        "language": "eng"
+    },
+    "wreckitralph": {
+        "base_url": "https://onlineempireblueprint.site/JXjuX4huO/content/5bea1e7bdf3a8511bf2f1115cbbe915b/4a47460c733a55636871eac548d7eb8e",
+        "length": 1213,
+        "second_lenght": 6060,
+        "title": "Wreck-It Ralph",
+        "year": 2012,
+        "studio": "Walt Disney Animation Studios",
+        "description": "Ralph, a video game villain tired of always being the bad guy, leaves his arcade game to prove that he can become a hero. His journey takes him through different video game worlds, where he meets a young racing character named Vanellope and accidentally unleashes a threat that could destroy the entire arcade.",
+        "language": "eng"
+    },
+    "encanto": {
+        "base_url": "https://profitableaffiliatehub.site/0284yj9RD/content/47aabc928f6dc39cb7c372f7fa6662e7/d6f0e96cbc66ebb4e86f85b43bd34f7e",
+        "length": 1224,
+        "second_lenght": 6120,
+        "title": "Encanto",
+        "year": 2021,
+        "studio": "Walt Disney Animation Studios",
+        "description": "In a magical house hidden in the mountains of Colombia, every member of the Madrigal family has been blessed with a special power except Mirabel. When the family's magic begins to fade, Mirabel discovers that she may be the only one who can save their extraordinary home.",
+        "language": "eng"
+    },
+    "wish": {
+        "base_url": "https://mindfulwealthjourney.site/XXyRFpDwI/content/03d618d1a6377a1382d1346b21ab3bc8/3fb4f685484b269a883e70723ffcb6b8",
+        "length": 1139,
+        "second_lenght": 5700,
+        "title": "Wish",
+        "year": 2023,
+        "studio": "Walt Disney Animation Studios",
+        "description": "Asha, a young woman living in the magical kingdom of Rosas, discovers that King Magnifico controls the wishes of his people. When she makes a powerful wish upon a star, a magical being named Star comes down from the sky to help her challenge the king and restore hope to the kingdom.",
+        "language": "eng"
+    },
+    "thecroods": {
+        "base_url": "https://profitablelaunchsystem.site/j5wvyzTDu/content/f4535f264c586150c94c7573ac7449b4/4819a13157d0a04e1f8d6c89893d4b4b",
+        "length": 1182,
+        "second_lenght": 5880,
+        "title": "The Croods",
+        "year": 2013,
+        "studio": "DreamWorks Animation",
+        "description": "When their cave is destroyed, a prehistoric family led by the overprotective Grug must venture into a strange and dangerous world to find a new home. Along the way, they meet an inventive young caveman named Guy who introduces them to new ideas and helps them survive extraordinary creatures and challenges.",
+        "language": "eng"
+    },
+    "thecroods2": {
+        "base_url": "https://profitablelaunchsystem.site/st6OwScbT/content/b2907087f3fd345c6222e6f17cd7c9f5/4819a13157d0a04e1f8d6c89893d4b4b",
+        "length": 1141,
+        "second_lenght": 5700,
+        "title": "The Croods: A New Age",
+        "year": 2020,
+        "studio": "DreamWorks Animation",
+        "description": "The Croods discover a beautiful paradise where they meet the Bettermans, a more advanced prehistoric family who believe they are superior. As the two families struggle to get along, a dangerous new threat forces them to work together to survive.",
+        "language": "eng"
+    },
+    "monstersuniversity": {
+        "base_url": "https://profitablecreatorvault.site/DbdLEWvuM/content/bb1977c4f816c60ca91016ba916aafd5/9e523ae15b61dc766f5c818726881ecf",
+        "length": 1244,
+        "second_lenght": 6240,
+        "title": "Monsters University",
+        "year": 2013,
+        "studio": "Pixar Animation Studios",
+        "description": "Mike Wazowski dreams of becoming a professional scarer and enrolls at Monsters University. There, he meets the naturally talented but arrogant James P. Sullivan. Despite their rivalry, the two monsters must learn to work together when they join a team of misfits competing in the university's Scare Games.",
+        "language": "eng"
+    },
+    "wreckitralph2": {
+        "base_url": "https://profitablecreatorvault.site/DbdLEWvuM/content/df1b2b5a85e938764d33f4529b43379e/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1348,
+        "second_lenght": 6720,
+        "title": "Ralph Breaks the Internet",
+        "year": 2018,
+        "studio": "Walt Disney Animation Studios",
+        "description": "When Vanellope's racing game Sugar Rush is threatened with destruction, Ralph and Vanellope travel through a Wi-Fi router into the vast world of the internet. They explore websites, online games, and social media while searching for a replacement part to save her game, putting their friendship to the test.",
         "language": "eng"
     }
 }
