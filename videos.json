@@ -1149,33 +1149,6 @@
         "description": "Max Mercer is accidentally left behind when his family travels to Japan for Christmas. While enjoying his time alone, he discovers that a married couple is planning to break into his house to recover a valuable family heirloom. Max prepares elaborate traps to protect his home.",
         "language": "eng"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     "fivenightsatfreddys": {
         "base_url": "https://lifestylefreedomlab.site/eeAlaz2PX/content/c15edfb4190e6d5bf31ebc22d528bc12/8156aaacd49ad5a62d2167e99b6f17fc",
         "length": 1312,
@@ -1215,5 +1188,108 @@
         "studio": "Basque Films",
         "description": "A new prisoner named Perempuan enters a brutal vertical prison where food is distributed through a descending platform. As a strict system of rules attempts to create fairness among the inmates, violent conflicts erupt between those who follow the rules and those who resist them. Perempuan must fight to survive and challenge the oppressive system.",
         "language": "spa"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "slenderman": {
+        "base_url": "https://lifestylefreedomlab.site/8DZ5WpsK6/content/d0b828dc6df31e9bfabdebb860118309/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1116,
+        "second_lenght": 5580,
+        "title": "Slender Man",
+        "year": 2018,
+        "studio": "Screen Gems",
+        "description": "In a small Massachusetts town, four teenage friends perform a ritual to investigate the legend of Slender Man, a mysterious faceless figure. When one of the girls suddenly disappears, the others begin experiencing terrifying visions and suspect that the supernatural creature is real.",
+        "language": "eng"
+    },
+    "it": {
+        "base_url": "https://startupfundinglab.site/QSs7u9qzW/content/d85a069eb7479c0d696bf95dd1a78cc4/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1614,
+        "second_lenght": 8100,
+        "title": "It",
+        "year": 2017,
+        "studio": "New Line Cinema",
+        "description": "In the summer of 1989, a group of seven bullied children in the town of Derry discover that a terrifying shape-shifting creature is responsible for the disappearance of local children. Calling themselves the Losers Club, they must confront their deepest fears and battle the evil clown Pennywise.",
+        "language": "eng"
+    },
+    "it2": {
+        "base_url": "https://scalableimpactgroup.site/CdEjGIdUk/content/923093de23c0c0fdfab824a3b7cba7d5/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 2030,
+        "second_lenght": 10140,
+        "title": "It: Chapter Two",
+        "year": 2019,
+        "studio": "New Line Cinema",
+        "description": "Twenty-seven years after defeating Pennywise, the members of the Losers Club have grown up and gone their separate ways. When the terrifying clown returns to Derry, they reunite to confront their childhood fears and destroy the ancient evil once and for all.",
+        "language": "eng"
+    },
+    "ironlung": {
+        "base_url": "https://influencerstrategygroup.site/dUU4qlVyl/content/0ee581db893ee7bf479cc07bb313ae66/c68f40ed2c538685b01f47a44a7fcc37",
+        "length": 1494,
+        "second_lenght": 7500,
+        "title": "Iron Lung",
+        "year": 2026,
+        "studio": "Markiplier",
+        "description": "Following a mysterious event known as the Quiet Rapture, which caused stars and habitable planets to vanish, humanity struggles to survive. A convict named Simon is sent aboard a small submarine called the Iron Lung to explore a vast ocean of blood on a desolate moon, where terrifying discoveries await him.",
+        "language": "eng"
+    },
+    "fall": {
+        "base_url": "https://futureproofmarketing.site/WxX94jG5M/content/4b919dcb4f770ef07d93dbaece6ae0b5/a446cf059429b789037f7e911add3411",
+        "length": 1238,
+        "second_lenght": 6420,
+        "title": "Fall",
+        "year": 2022,
+        "studio": "Capstone Pictures",
+        "description": "Best friends Becky and Hunter decide to climb an abandoned 2,000-foot television tower in the middle of the desert. When the ladder collapses, they become stranded at the very top with no way down, forcing them to fight for survival against extreme heights, dehydration, and fear.",
+        "language": "eng"
+    },
+    "fall2": {
+        "base_url": "https://passiveprofitengine.site/hJXcSLqLg/content/37d00dd6c8d5b3d061eb77ed6e19c453/1a489963d7656acb9327bf9124035ba9",
+        "length": 1167,
+        "second_lenght": 5880,
+        "title": "Fall 2: Deadpoint",
+        "year": 2026,
+        "studio": "Capstone Pictures",
+        "description": "After the death of her sister, Jax joins her sister's adventurous friend Luce on a dangerous climbing expedition in Thailand. When a sudden rockslide leaves them trapped thousands of feet above the ground on a narrow plank, they must overcome their fears and find a way to survive.",
+        "language": "eng"
+    },
+    "themonkey": {
+        "base_url": "https://conversionfocusedstudio.site/BTfHWu0Sm/content/e6b6f7c8dce21be47fbec82687623787/1e7bfb0e14e372c66edd3b5b0b6cebf8",
+        "length": 1155,
+        "second_lenght": 5880,
+        "title": "The Monkey",
+        "year": 2025,
+        "studio": "Neon",
+        "description": "Twin brothers Hal and Bill discover their father's mysterious wind-up toy monkey in the attic. Soon after, a series of horrifying deaths begins occurring around them. They attempt to get rid of the cursed toy, but years later the terrifying events return, forcing the brothers to confront the evil from their childhood.",
+        "language": "eng"
     }
 }
