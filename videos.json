@@ -1069,78 +1069,6 @@
         "description": "When Vanellope's racing game Sugar Rush is threatened with destruction, Ralph and Vanellope travel through a Wi-Fi router into the vast world of the internet. They explore websites, online games, and social media while searching for a replacement part to save her game, putting their friendship to the test.",
         "language": "eng"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     "minions": {
         "base_url": "https://digitalgrowthblueprint.site/BLWDuL7aS/content/4a69875cf317c869ce56efaa99967258/c68f40ed2c538685b01f47a44a7fcc37",
         "length": 1090,
@@ -1220,5 +1148,72 @@
         "studio": "20th Century Studios",
         "description": "Max Mercer is accidentally left behind when his family travels to Japan for Christmas. While enjoying his time alone, he discovers that a married couple is planning to break into his house to recover a valuable family heirloom. Max prepares elaborate traps to protect his home.",
         "language": "eng"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "fivenightsatfreddys": {
+        "base_url": "https://lifestylefreedomlab.site/eeAlaz2PX/content/c15edfb4190e6d5bf31ebc22d528bc12/8156aaacd49ad5a62d2167e99b6f17fc",
+        "length": 1312,
+        "second_lenght": 6540,
+        "title": "Five Nights at Freddy's",
+        "year": 2023,
+        "studio": "Blumhouse Productions",
+        "description": "Mike Schmidt, a troubled security guard, takes a night shift job at the abandoned Freddy Fazbear's Pizza restaurant. He soon discovers that the restaurant's animatronic mascots come to life at night and hide a terrifying secret connected to missing children.",
+        "language": "eng"
+    },
+    "fivenightsatfreddys2": {
+        "base_url": "https://sustainableprofitlab.site/V65edTwK5/content/629c7294a54fb00b89587942e62c258d/eed0504b09aefb1cda7f1e4c436ee6cc",
+        "length": 1247,
+        "second_lenght": 6240,
+        "title": "Five Nights at Freddy's 2",
+        "year": 2025,
+        "studio": "Blumhouse Productions",
+        "description": "One year after the terrifying events at Freddy Fazbear's Pizza, the story of the haunted restaurant has become a local legend. When Abby sneaks away to reunite with her animatronic friends, she uncovers dark secrets about Freddy's origins and accidentally unleashes an ancient horror that has remained hidden for decades.",
+        "language": "eng"
+    },
+    "theplatform": {
+        "base_url": "https://scalableimpactgroup.site/dWXQ4ugyr/content/627e8f9ee417cefbb73fcebf9208cd1f/0f9b738af906eb91d8f5b3fab14e78cc",
+        "length": 1136,
+        "second_lenght": 5640,
+        "title": "The Platform",
+        "year": 2019,
+        "studio": "Basque Films",
+        "description": "In a mysterious vertical prison, inmates are housed on different levels and receive food from a platform that descends through the building. Those on the upper floors eat first, leaving almost nothing for the prisoners below. A man named Goreng struggles to survive and attempts to change the cruel system.",
+        "language": "spa"
+    },
+    "theplatform2": {
+        "base_url": "https://digitalnomadventures.site/i3p4boT84/content/294813f7d3d16c195354da5ae4124264/da7fce9a3b21b22d43cb5785ed4553f9",
+        "length": 1216,
+        "second_lenght": 5940,
+        "title": "The Platform 2",
+        "year": 2024,
+        "studio": "Basque Films",
+        "description": "A new prisoner named Perempuan enters a brutal vertical prison where food is distributed through a descending platform. As a strict system of rules attempts to create fairness among the inmates, violent conflicts erupt between those who follow the rules and those who resist them. Perempuan must fight to survive and challenge the oppressive system.",
+        "language": "spa"
     }
 }
