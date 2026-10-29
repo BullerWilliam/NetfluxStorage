@@ -748,5 +748,45 @@
         "studio": "Warner Bros. Animation",
         "description": "Scooby-Doo, Shaggy, Fred, Daphne, and Velma travel to Scotland to visit Daphne's cousin and attend the Highland Games. Their vacation turns into a mystery when the legendary Loch Ness Monster begins terrorizing the area, forcing the gang to investigate whether the creature is real or part of an elaborate scheme.",
         "language": "eng"
+    },
+    "scoobydoohollywood": {
+        "base_url": "https://impactdrivenbrands.site/xIUu2QqAk/content/b03453e3435cea7e174c15386b461e6f/9e523ae15b61dc766f5c818726881ecf",
+        "length": 592,
+        "second_lenght": 2940,
+        "title": "Scooby-Doo Goes Hollywood",
+        "year": 1979,
+        "studio": "Hanna-Barbera Productions",
+        "description": "Scooby-Doo dreams of becoming a big Hollywood star and leaving his Saturday morning cartoon behind. With Shaggy acting as his manager, Scooby auditions for different television shows and movies, while the rest of the Mystery Inc. gang tries to convince him to return to his friends.",
+        "language": "eng"
+    },
+    "scoobydoomexico": {
+        "base_url": "https://startupmomentumengine.site/xpQeWoJG5/content/18023a44811436c3a2c7b205bd6a56c0/9e523ae15b61dc766f5c818726881ecf",
+        "length": 902,
+        "second_lenght": 4500,
+        "title": "Scooby-Doo and the Monster of Mexico",
+        "year": 2003,
+        "studio": "Hanna-Barbera Cartoons",
+        "description": "Scooby-Doo and the Mystery Inc. gang travel to Veracruz, Mexico, to visit Fred's friend Alejo Otero and his family. Their vacation turns into a frightening mystery when a terrifying creature known as El Chupacabra begins terrorizing the town and threatening the family's hotel.",
+        "language": "eng"
+    },
+    "legoscoobydoohollywood": {
+        "base_url": "https://nicheauthorityengine.site/0KfwZunYg/content/81c5c09c86a64b9139b4b7e13dbd9836/3f68f9e4b4b6d9aa0ec70607af517a46",
+        "length": 902,
+        "second_lenght": 4500,
+        "title": "LEGO Scooby-Doo!: Haunted Hollywood",
+        "year": 2016,
+        "studio": "Warner Bros. Animation",
+        "description": "Scooby-Doo and the Mystery Inc. gang visit an old Hollywood movie studio that is threatened with closure. When mysterious monsters from classic horror films begin appearing, the gang must uncover who is behind the hauntings and save the studio.",
+        "language": "eng"
+    },
+    "legoscoobydoopirates": {
+        "base_url": "https://nicheauthorityengine.site/8DZ5WpsK6/content/87d62e0adec53eafef16a69afa51ed62/3f68f9e4b4b6d9aa0ec70607af517a46",
+        "length": 922,
+        "second_lenght": 4620,
+        "title": "LEGO Scooby-Doo! Blowout Beach Bash",
+        "year": 2017,
+        "studio": "Warner Bros. Animation",
+        "description": "Scooby-Doo and the Mystery Inc. gang travel to Blowout Beach for a fun beach party. However, their vacation is interrupted when a group of ghost pirates begins terrorizing the area. The gang must investigate the mysterious pirates and save the beach celebration.",
+        "language": "eng"
     }
 }
