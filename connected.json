@@ -1,39 +1,193 @@
 [
-    ["cars", "cars2", "cars3"],
-    ["shrek", "shrek2", "shrek3", "shrek4"],
-    ["ternetninja", "ternetninja2"],
-    ["mazerunner", "mazerunner2", "mazerunner3"],
-    ["spiderman", "spiderman2", "spiderman3", "amazingspiderman", "amazingspiderman2", "spidermanhomecoming", "spidermanfarfromhome", "spidermannowayhome", "spidermanbrandnewday"],
-    ["charlieandthechocolatefactory", "wonka"],
-    ["kungfupanda", "kungfupanda2", "kungfupanda3", "kungfupanda4"],
-    ["moana", "moana2"],
-    ["toystory", "toystory2", "toystory3", "toystory4", "toystory5"],
-    ["thelegomovie", "thelegomovie2"],
-    ["angrybirds", "angrybirds2"],
-    ["dune", "dune2"],
-    ["despicableme", "despicableme2", "despicableme3", "despicableme4"],
-    ["sonic", "sonic2", "sonic3"],
-    ["badguys", "badguys2"],
-    ["spacejam", "spacejam2"],
-    ["meg", "meg2"],
-    ["scoobydoocyberchase", "alohascoobydoo", "scoobydoolochness", "scoobydoohollywood", "scoobydoomexico", "legoscoobydoohollywood", "legoscoobydoopirates"],
-    ["insideout", "insideout2"],
-    ["findingnemo", "findingdory"],
-    ["monstersinc", "monstersuniversity"],
-    ["wreckitralph", "wreckitralph2"],
-    ["thecroods", "thecroods2"],
-    ["minions", "minions2"],
-    ["homealone", "homealone2", "homealone3", "homealone4", "homealone5", "homealone6"],
-    ["fivenightsatfreddys", "fivenightsatfreddys2"],
-    ["theplatform", "theplatform2"],
-    ["fall", "fall2"],
-    ["it1", "it2"],
-    ["hungergames", "hungergames2", "hungergames3", "hungergames4", "hungergames5"],
-    ["happydeathday", "happydeathday2"],
-    ["godzilla", "godzilla2", "godzillavskong", "godzillaxkong"],
-    ["supermariobros", "supermariogalaxy"],
-    ["cloudywithachanceofmeatballs", "cloudywithachanceofmeatballs2"],
-    ["bossbaby", "bossbaby2"],
-    ["spongebob", "spongebob2", "spongebob3", "spongebob4"],
-    ["jurassicpark", "jurassicpark2", "jurassicpark3", "jurassicworld", "jurassicworld2", "jurassicworld3", "jurassicworld4"]
+  [
+    "minionsandmore",
+    "minionsandmore2"
+  ],
+  [
+    "cars",
+    "cars2",
+    "cars3"
+  ],
+  [
+    "shrek",
+    "shrek2",
+    "shrek3",
+    "shrek4"
+  ],
+  [
+    "ternetninja",
+    "ternetninja2"
+  ],
+  [
+    "mazerunner",
+    "mazerunner2",
+    "mazerunner3"
+  ],
+  [
+    "spiderman",
+    "spiderman2",
+    "spiderman3",
+    "amazingspiderman",
+    "amazingspiderman2",
+    "spidermanhomecoming",
+    "spidermanfarfromhome",
+    "spidermannowayhome",
+    "spidermanbrandnewday"
+  ],
+  [
+    "charlieandthechocolatefactory",
+    "wonka"
+  ],
+  [
+    "kungfupanda",
+    "kungfupanda2",
+    "kungfupanda3",
+    "kungfupanda4"
+  ],
+  [
+    "moana",
+    "moana2"
+  ],
+  [
+    "toystory",
+    "toystory2",
+    "toystory3",
+    "toystory4",
+    "toystory5"
+  ],
+  [
+    "thelegomovie",
+    "thelegomovie2"
+  ],
+  [
+    "angrybirds",
+    "angrybirds2"
+  ],
+  [
+    "dune",
+    "dune2"
+  ],
+  [
+    "despicableme",
+    "despicableme2",
+    "despicableme3",
+    "despicableme4"
+  ],
+  [
+    "sonic",
+    "sonic2",
+    "sonic3"
+  ],
+  [
+    "badguys",
+    "badguys2"
+  ],
+  [
+    "spacejam",
+    "spacejam2"
+  ],
+  [
+    "meg",
+    "meg2"
+  ],
+  [
+    "scoobydoocyberchase",
+    "alohascoobydoo",
+    "scoobydoolochness",
+    "scoobydoohollywood",
+    "scoobydoomexico",
+    "legoscoobydoohollywood",
+    "legoscoobydoopirates"
+  ],
+  [
+    "insideout",
+    "insideout2"
+  ],
+  [
+    "findingnemo",
+    "findingdory"
+  ],
+  [
+    "monstersinc",
+    "monstersuniversity"
+  ],
+  [
+    "wreckitralph",
+    "wreckitralph2"
+  ],
+  [
+    "thecroods",
+    "thecroods2"
+  ],
+  [
+    "minions",
+    "minions2"
+  ],
+  [
+    "homealone",
+    "homealone2",
+    "homealone3",
+    "homealone4",
+    "homealone5",
+    "homealone6"
+  ],
+  [
+    "fivenightsatfreddys",
+    "fivenightsatfreddys2"
+  ],
+  [
+    "theplatform",
+    "theplatform2"
+  ],
+  [
+    "fall",
+    "fall2"
+  ],
+  [
+    "it2"
+  ],
+  [
+    "hungergames",
+    "hungergames2",
+    "hungergames3",
+    "hungergames4",
+    "hungergames5"
+  ],
+  [
+    "happydeathday",
+    "happydeathday2"
+  ],
+  [
+    "godzilla",
+    "godzilla2",
+    "godzillavskong",
+    "godzillaxkong"
+  ],
+  [
+    "supermariobros",
+    "supermariogalaxy"
+  ],
+  [
+    "cloudywithachanceofmeatballs",
+    "cloudywithachanceofmeatballs2"
+  ],
+  [
+    "bossbaby",
+    "bossbaby2"
+  ],
+  [
+    "spongebob",
+    "spongebob2",
+    "spongebob3",
+    "spongebob4"
+  ],
+  [
+    "jurassicpark",
+    "jurassicpark2",
+    "jurassicpark3",
+    "jurassicworld",
+    "jurassicworld2",
+    "jurassicworld3",
+    "jurassicworld4"
+  ]
 ]
