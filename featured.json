@@ -1,5 +1,6 @@
 {
-  "title": "Featured Halloween Movies", 
+  "title": "Featured Halloween Movies",,
+  "enabled": true,
   "movies": [
     ""
   ]
