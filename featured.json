@@ -1,5 +1,33 @@
 {
   "title": "Featured Halloween Movies And Series",
   "enabled": true,
-  "movies": []
+  "movies": [
+    "backrooms",
+    "singthriller",
+    "coco",
+    "fivenightsatfreddys",
+    "fivenightsatfreddys2",
+    "theplatform",
+    "theplatform2",
+    "slenderman",
+    "it",
+    "it2",
+    "ironlung",
+    "themonkey",
+    "happydeathday",
+    "happydeathday2",
+    "themenu",
+    "thenightmarebeforechristmas",
+    "corpsebride",
+    "harrypotter",
+    "harrypotter2",
+    "harrypotter3",
+    "harrypotter4",
+    "harrypotter5",
+    "harrypotter6",
+    "harrypotter7",
+    "harrypotter8",
+    "friday13",
+    "tt4574334"
+  ]
 }
