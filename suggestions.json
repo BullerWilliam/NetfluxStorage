@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "suggestionId": "d9b121a5-f995-452b-ad25-d94083846dba",
+    "text": "Halloween",
+    "id": "6ba72eb2-e208-42d5-a47e-11e190153caf",
+    "type": "movie",
+    "imdb": "tt1502407",
+    "checked": false
+  }
+]
