@@ -13,5 +13,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "2c0fe221-cae2-4b0b-924d-b0e8bba60fba",
+    "text": "make it auto-refresh when making a collection",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
