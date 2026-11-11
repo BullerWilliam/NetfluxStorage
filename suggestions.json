@@ -20,5 +20,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "ae2fb8aa-5196-4be3-8355-9f873ad4c91d",
+    "text": "it gives error 400 when adding content to a collection",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
