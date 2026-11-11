@@ -62,5 +62,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "6b7c72df-f8b9-42b0-847b-0203ed2a59dc",
+    "text": "manager - right click a movie in the collections tab and type a collection number to add it to",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
