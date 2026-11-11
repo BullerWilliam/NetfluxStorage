@@ -34,5 +34,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "833bde09-0a4c-4699-a9c5-c6197feeebfb",
+    "text": "style the edit/remove options for suggestions",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
