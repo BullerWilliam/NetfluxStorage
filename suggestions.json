@@ -55,5 +55,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "924de76a-b3ea-42d0-8088-7bc118fd0af0",
+    "text": "style scrollbar in settings/suggestions tabs",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
