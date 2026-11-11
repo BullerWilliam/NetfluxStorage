@@ -1,13 +1,5 @@
 [
   {
-    "suggestionId": "d9b121a5-f995-452b-ad25-d94083846dba",
-    "text": "Halloween",
-    "id": "6ba72eb2-e208-42d5-a47e-11e190153caf",
-    "type": "movie",
-    "imdb": "tt1502407",
-    "checked": true
-  },
-  {
     "suggestionId": "f87b6170-d5d5-4837-9c78-78a637b2710e",
     "text": "scroll bar in add movies/series to collections",
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
