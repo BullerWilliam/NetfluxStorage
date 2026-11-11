@@ -41,5 +41,12 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "d5b1c34c-690f-42ae-ba98-7c0e93a75cba",
+    "text": "style the hover text for buttons/text",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
