@@ -50,5 +50,13 @@
     "type": "movie",
     "imdb": "tt30743549",
     "checked": false
+  },
+  {
+    "suggestionId": "e08e9021-a408-48dd-bdc7-15763e19c187",
+    "text": "Free Willy",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "movie",
+    "imdb": "tt0106965",
+    "checked": false
   }
 ]
