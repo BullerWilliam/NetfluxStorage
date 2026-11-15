@@ -58,5 +58,13 @@
     "type": "movie",
     "imdb": "tt0106965",
     "checked": false
+  },
+  {
+    "suggestionId": "caa4a940-0715-4765-9578-f3e1f521d971",
+    "text": "Winnie-the-Pooh: Blood and Honey",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "movie",
+    "imdb": "tt19623240",
+    "checked": false
   }
 ]
