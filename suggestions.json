@@ -1,12 +1,5 @@
 [
   {
-    "suggestionId": "d5b1c34c-690f-42ae-ba98-7c0e93a75cba",
-    "text": "style the hover text for buttons/text",
-    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
-    "type": "app",
-    "checked": false
-  },
-  {
     "suggestionId": "df0ca06b-1bef-4a02-adb0-790137c1868c",
     "text": "cant load content streams on low-end devices",
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
