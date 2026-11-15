@@ -42,5 +42,13 @@
     "type": "movie",
     "imdb": "tt32881442",
     "checked": false
+  },
+  {
+    "suggestionId": "9b77d4db-bf87-4382-bbda-e78b1ba63520",
+    "text": "The Mouse Trap",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "movie",
+    "imdb": "tt30743549",
+    "checked": false
   }
 ]
