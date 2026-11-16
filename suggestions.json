@@ -44,5 +44,21 @@
     "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "b180c8ec-f72f-4891-bfcc-ae33bb00d6c3",
+    "text": "the giant pear",
+    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
+    "type": "movie",
+    "imdb": "tt7006206",
+    "checked": false
+  },
+  {
+    "suggestionId": "99782925-0ea6-4c68-8520-e6e13951fbef",
+    "text": "fresh off the boat",
+    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
+    "type": "series",
+    "imdb": "tt3551096",
+    "checked": false
   }
 ]
