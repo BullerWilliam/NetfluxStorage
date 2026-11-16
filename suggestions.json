@@ -37,5 +37,12 @@
     "type": "movie",
     "imdb": "tt19623240",
     "checked": false
+  },
+  {
+    "suggestionId": "4cb13342-f0d3-45d2-81ad-328793b72fed",
+    "text": "make the top left NETFLUX text into poppins-bd bolded in all uppercase",
+    "id": "d21fe495-4f64-49d2-b28e-8d064228439f",
+    "type": "app",
+    "checked": false
   }
 ]
