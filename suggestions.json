@@ -368,5 +368,13 @@
     "type": "series",
     "imdb": "tt32252772",
     "checked": false
+  },
+  {
+    "suggestionId": "2a3a6584-d772-43fe-a874-1cfef8f081f4",
+    "text": "Dexter: Early Cuts",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt1595870",
+    "checked": false
   }
 ]
