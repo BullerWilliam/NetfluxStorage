@@ -96,5 +96,13 @@
     "type": "movie",
     "imdb": "tt1057500",
     "checked": false
+  },
+  {
+    "suggestionId": "9e64c9e8-e356-407a-a7e0-860b84935651",
+    "text": "1",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt1375666",
+    "checked": false
   }
 ]
