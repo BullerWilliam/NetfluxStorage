@@ -104,5 +104,13 @@
     "type": "movie",
     "imdb": "tt1375666",
     "checked": false
+  },
+  {
+    "suggestionId": "2d8f52c1-63b3-4ec3-8c40-9bb97b906b16",
+    "text": "parasite",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt6751668",
+    "checked": false
   }
 ]
