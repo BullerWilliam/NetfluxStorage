@@ -144,5 +144,37 @@
     "type": "movie",
     "imdb": "tt10954984",
     "checked": false
+  },
+  {
+    "suggestionId": "361319e7-a6a1-4cf6-bd87-0b39b0d6b215",
+    "text": "gladiator",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt0172495",
+    "checked": false
+  },
+  {
+    "suggestionId": "20c25805-989b-4f82-93d7-06b2666a6d02",
+    "text": "2",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt9218128",
+    "checked": false
+  },
+  {
+    "suggestionId": "e6a1b2a7-cd73-4167-afbf-254cd25be25d",
+    "text": "whiplash",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt2582802",
+    "checked": false
+  },
+  {
+    "suggestionId": "6e51fc66-b9b9-4afd-b24b-bf51373646a7",
+    "text": "last viking",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt27817389",
+    "checked": false
   }
 ]
