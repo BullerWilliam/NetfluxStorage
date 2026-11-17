@@ -376,5 +376,13 @@
     "type": "series",
     "imdb": "tt1595870",
     "checked": false
+  },
+  {
+    "suggestionId": "d5e62002-66f6-4fce-b1dd-046e58459e20",
+    "text": "Dexter: Blood Spatter 101",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt1470992",
+    "checked": false
   }
 ]
