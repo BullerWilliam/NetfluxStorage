@@ -336,13 +336,5 @@
     "type": "series",
     "imdb": "tt1196946",
     "checked": false
-  },
-  {
-    "suggestionId": "9de641b4-5bcf-4d77-a91c-c2101c3289d6",
-    "text": "Dexter",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "movie",
-    "imdb": "tt35518994",
-    "checked": false
   }
 ]
