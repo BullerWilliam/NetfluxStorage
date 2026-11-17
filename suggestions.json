@@ -128,5 +128,21 @@
     "type": "movie",
     "imdb": "tt6644200",
     "checked": false
+  },
+  {
+    "suggestionId": "8e050880-d4f1-45e8-9410-95ce3acf98c5",
+    "text": "get out",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt5052448",
+    "checked": false
+  },
+  {
+    "suggestionId": "c48408ff-41d4-4ca1-8960-35fd0d989ce1",
+    "text": "nope",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "imdb": "tt10954984",
+    "checked": false
   }
 ]
