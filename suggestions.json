@@ -88,5 +88,13 @@
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "546b51cf-90aa-44b5-9a03-81190414cadb",
+    "text": "invictus",
+    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
+    "type": "movie",
+    "imdb": "tt1057500",
+    "checked": false
   }
 ]
