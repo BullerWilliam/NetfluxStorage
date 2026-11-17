@@ -352,5 +352,13 @@
     "type": "series",
     "imdb": "tt0773262",
     "checked": false
+  },
+  {
+    "suggestionId": "03c7fcc6-3122-43b0-925b-0fb556d40f2c",
+    "text": "Dexter: New Blood",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt14164730",
+    "checked": false
   }
 ]
