@@ -328,5 +328,13 @@
     "type": "movie",
     "imdb": "tt0144084",
     "checked": false
+  },
+  {
+    "suggestionId": "a0ed314f-f4e4-4067-aa2f-13fabc7ef76d",
+    "text": "The Mentalist",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt1196946",
+    "checked": false
   }
 ]
