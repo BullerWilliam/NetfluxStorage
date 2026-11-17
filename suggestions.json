@@ -74,5 +74,12 @@
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "7a10b1c1-921b-4be3-9dce-411379081428",
+    "text": "change tab order in settings on manager",
+    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
+    "type": "app",
+    "checked": false
   }
 ]
