@@ -336,5 +336,13 @@
     "type": "series",
     "imdb": "tt1196946",
     "checked": false
+  },
+  {
+    "suggestionId": "73e970a6-113d-4168-b313-2a1a6f8f892f",
+    "text": "Dexter: Resurrection",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt33043892",
+    "checked": false
   }
 ]
