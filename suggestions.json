@@ -216,5 +216,13 @@
     "type": "movie",
     "imdb": "tt37287335",
     "checked": false
+  },
+  {
+    "suggestionId": "ef8e9634-d1d9-481e-bffa-204edf24a980",
+    "text": "dfg",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "series",
+    "imdb": "tt3032476",
+    "checked": false
   }
 ]
