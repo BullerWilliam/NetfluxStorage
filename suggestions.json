@@ -360,5 +360,13 @@
     "type": "series",
     "imdb": "tt14164730",
     "checked": false
+  },
+  {
+    "suggestionId": "3abae6af-d68f-4b9b-a46b-54d2b9a0c731",
+    "text": "Dexter: Original Sin",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt32252772",
+    "checked": false
   }
 ]
