@@ -392,5 +392,12 @@
     "type": "series",
     "imdb": "tt14742424",
     "checked": false
+  },
+  {
+    "suggestionId": "870b13fb-27ca-4e74-81ab-99430830074c",
+    "text": "make mystery genre for scooby doo",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
