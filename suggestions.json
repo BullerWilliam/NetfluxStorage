@@ -431,5 +431,12 @@
     "type": "series",
     "imdb": "tt0397306",
     "checked": false
+  },
+  {
+    "suggestionId": "c9509ed0-649e-44b9-a7a8-92e6d5c47f9d",
+    "text": "manager -the copy buttons on movie cards in the movies tab have the highest zindex on the entire page so they are over everything even the top bar when scrolling",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
