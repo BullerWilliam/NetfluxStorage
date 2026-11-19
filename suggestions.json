@@ -452,5 +452,12 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "b6cfe404-1a74-4844-84df-c00a058e96d8",
+    "text": "from netflux app in settings there should be a ping button that then shows something on that user in the users tab",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
