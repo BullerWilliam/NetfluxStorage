@@ -445,5 +445,12 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "53a65c95-3a7c-4c78-b844-38b47505c602",
+    "text": "the movie player ui is still visible while hidden using f1",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
