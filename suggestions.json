@@ -399,5 +399,13 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "3a97fe4b-4fd9-4258-bc27-df6c4daa7f0e",
+    "text": "theres more",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "series",
+    "imdb": "tt0364845",
+    "checked": false
   }
 ]
