@@ -2900,5 +2900,845 @@
     "base_url": "https://highperformancebrands.site/2VoJOn8at/content/737646d87cce5ab13994a34641e93696/6a909f4727881a3469bd52fa9b42122c",
     "length": 1268,
     "mediaid": "tt1502407"
+  },
+  "hollowman": {
+    "title": "Hollow Man",
+    "year": 2000,
+    "mediaid": "tt0164052",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "yesday": {
+    "title": "Yes Day",
+    "year": 2021,
+    "mediaid": "tt8521876",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "ted": {
+    "title": "Ted",
+    "year": 2012,
+    "mediaid": "tt1637725",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "ted2": {
+    "title": "Ted 2",
+    "year": 2015,
+    "mediaid": "tt2637276",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "bullettrainexplosion": {
+    "title": "Bullet Train Explosion",
+    "year": 2025,
+    "mediaid": "tt33452974",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "yesman": {
+    "title": "Yes Man",
+    "year": 2008,
+    "mediaid": "tt1068680",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thewildrobot": {
+    "title": "The Wild Robot",
+    "year": 2024,
+    "mediaid": "tt29623480",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thecatinthehat": {
+    "title": "The Cat in the Hat",
+    "year": 2026,
+    "mediaid": "tt2321555",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "spacesweepers": {
+    "title": "Space Sweepers",
+    "year": 2021,
+    "mediaid": "tt12838766",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "titanic": {
+    "title": "Titanic",
+    "year": 1997,
+    "mediaid": "tt0120338",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "30minutesorless": {
+    "title": "30 Minutes or Less",
+    "year": 2011,
+    "mediaid": "tt1622547",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thenakedgunfromthefilesofpolicesquad": {
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "year": 1988,
+    "mediaid": "tt0095705",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "jackassthemovie": {
+    "title": "Jackass: The Movie",
+    "year": 2002,
+    "mediaid": "tt0322802",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "jackassnumbertwo": {
+    "title": "Jackass Number Two",
+    "year": 2006,
+    "mediaid": "tt0493430",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "jackass3d": {
+    "title": "Jackass 3D",
+    "year": 2010,
+    "mediaid": "tt1116184",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "jackasspresentsbadgrandpa": {
+    "title": "Jackass Presents: Bad Grandpa",
+    "year": 2013,
+    "mediaid": "tt3063516",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "jackassforever": {
+    "title": "Jackass Forever",
+    "year": 2022,
+    "mediaid": "tt11466222",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theheat": {
+    "title": "The Heat",
+    "year": 2013,
+    "mediaid": "tt2404463",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "monstersvsaliens": {
+    "title": "Monsters vs. Aliens",
+    "year": 2009,
+    "mediaid": "tt0892782",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sanandreas": {
+    "title": "San Andreas",
+    "year": 2015,
+    "mediaid": "tt2126355",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "nextgen": {
+    "title": "Next Gen",
+    "year": 2018,
+    "mediaid": "tt7133686",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "extinction": {
+    "title": "Extinction",
+    "year": 2018,
+    "mediaid": "tt3201640",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thesleepover": {
+    "title": "The Sleepover",
+    "year": 2020,
+    "mediaid": "tt10888708",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "stowaway": {
+    "title": "Stowaway",
+    "year": 2021,
+    "mediaid": "tt9203694",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thekaratekid": {
+    "title": "The Karate Kid",
+    "year": 1984,
+    "mediaid": "tt0087538",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thekaratekidpartii": {
+    "title": "The Karate Kid Part II",
+    "year": 1986,
+    "mediaid": "tt0091326",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thekaratekidpartiii": {
+    "title": "The Karate Kid Part III",
+    "year": 1989,
+    "mediaid": "tt0097647",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thenextkaratekid": {
+    "title": "The Next Karate Kid",
+    "year": 1994,
+    "mediaid": "tt0110657",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "karatekidlegends": {
+    "title": "Karate Kid: Legends",
+    "year": 2025,
+    "mediaid": "tt1674782",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "rayaandthelastdragon": {
+    "title": "Raya and the Last Dragon",
+    "year": 2021,
+    "mediaid": "tt5109280",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "avatar": {
+    "title": "Avatar",
+    "year": 2009,
+    "mediaid": "tt0499549",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "avatarthewayofwater": {
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "mediaid": "tt1630029",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "avatarfireandash": {
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "mediaid": "tt1757678",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "elio": {
+    "title": "Elio",
+    "year": 2025,
+    "mediaid": "tt4900148",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "spiesindisguise": {
+    "title": "Spies in Disguise",
+    "year": 2019,
+    "mediaid": "tt5814534",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "onward": {
+    "title": "Onward",
+    "year": 2020,
+    "mediaid": "tt7146812",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "strangeworld": {
+    "title": "Strange World",
+    "year": 2022,
+    "mediaid": "tt10298840",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theincrediblestoryofthegiantpear": {
+    "title": "The Incredible Story of the Giant Pear",
+    "year": 2017,
+    "mediaid": "tt7006206",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "luca": {
+    "title": "Luca",
+    "year": 2021,
+    "mediaid": "tt12801262",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "ferdinand": {
+    "title": "Ferdinand",
+    "year": 2017,
+    "mediaid": "tt3411444",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "themumbojumbo": {
+    "title": "The Mumbo Jumbo",
+    "year": 2000,
+    "mediaid": "tt0245299",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theiceageadventuresofbuckwild": {
+    "title": "The Ice Age Adventures of Buck Wild",
+    "year": 2022,
+    "mediaid": "tt13634480",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thedevilwearsprada": {
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "mediaid": "tt0458352",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "ronalthebarbarian": {
+    "title": "Ronal the Barbarian",
+    "year": 2011,
+    "mediaid": "tt1629374",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "flickeringlights": {
+    "title": "Flickering Lights",
+    "year": 2000,
+    "mediaid": "tt0236027",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "paul": {
+    "title": "Paul",
+    "year": 2011,
+    "mediaid": "tt1092026",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "allforone": {
+    "title": "All for One",
+    "year": 2011,
+    "mediaid": "tt1690368",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "allfortwo": {
+    "title": "All for Two",
+    "year": 2013,
+    "mediaid": "tt2188655",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengang": {
+    "title": "The Olsen Gang",
+    "year": 1968,
+    "mediaid": "tt0063386",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsenganginafix": {
+    "title": "The Olsen Gang in a Fix",
+    "year": 1969,
+    "mediaid": "tt0064755",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengangsbigscore": {
+    "title": "The Olsen Gang's Big Score",
+    "year": 1972,
+    "mediaid": "tt0069042",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "paddington": {
+    "title": "Paddington",
+    "year": 2014,
+    "mediaid": "tt1109624",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "paddington2": {
+    "title": "Paddington 2",
+    "year": 2017,
+    "mediaid": "tt4468740",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "paddingtoninperu": {
+    "title": "Paddington in Peru",
+    "year": 2024,
+    "mediaid": "tt5822536",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "madagascarescape2africa": {
+    "title": "Madagascar: Escape 2 Africa",
+    "year": 2008,
+    "mediaid": "tt0479952",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "madagascar3europesmostwanted": {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "year": 2012,
+    "mediaid": "tt1277953",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "penguinsofmadagascar": {
+    "title": "Penguins of Madagascar",
+    "year": 2014,
+    "mediaid": "tt1911658",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "trolls": {
+    "title": "Trolls",
+    "year": 2016,
+    "mediaid": "tt1679335",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "trollsworldtour": {
+    "title": "Trolls World Tour",
+    "year": 2020,
+    "mediaid": "tt6587640",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "trollsbandtogether": {
+    "title": "Trolls Band Together",
+    "year": 2023,
+    "mediaid": "tt14362112",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thelastviking": {
+    "title": "The Last Viking",
+    "year": 2025,
+    "mediaid": "tt27817389",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "meetdave": {
+    "title": "Meet Dave",
+    "year": 2008,
+    "mediaid": "tt0765476",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sharknado": {
+    "title": "Sharknado",
+    "year": 2013,
+    "mediaid": "tt2724064",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sharknado2thesecondone": {
+    "title": "Sharknado 2: The Second One",
+    "year": 2014,
+    "mediaid": "tt3062074",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sharknado3ohhellno": {
+    "title": "Sharknado 3: Oh Hell No!",
+    "year": 2015,
+    "mediaid": "tt3899796",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sharknado4the4thawakens": {
+    "title": "Sharknado 4: The 4th Awakens",
+    "year": 2016,
+    "mediaid": "tt4831420",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "sharknado5globalswarming": {
+    "title": "Sharknado 5: Global Swarming",
+    "year": 2017,
+    "mediaid": "tt6298780",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thelastsharknadoitsabouttime": {
+    "title": "The Last Sharknado: It's About Time",
+    "year": 2018,
+    "mediaid": "tt8031422",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "independenceday": {
+    "title": "Independence Day",
+    "year": 1996,
+    "mediaid": "tt0116629",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "independencedayresurgence": {
+    "title": "Independence Day: Resurgence",
+    "year": 2016,
+    "mediaid": "tt1628841",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "planetoftheapes": {
+    "title": "Planet of the Apes",
+    "year": 1968,
+    "mediaid": "tt0063442",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "beneaththeplanetoftheapes": {
+    "title": "Beneath the Planet of the Apes",
+    "year": 1970,
+    "mediaid": "tt0065462",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "escapefromtheplanetoftheapes": {
+    "title": "Escape from the Planet of the Apes",
+    "year": 1971,
+    "mediaid": "tt0067065",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "conquestoftheplanetoftheapes": {
+    "title": "Conquest of the Planet of the Apes",
+    "year": 1972,
+    "mediaid": "tt0068408",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "battlefortheplanetoftheapes": {
+    "title": "Battle for the Planet of the Apes",
+    "year": 1973,
+    "mediaid": "tt0069768",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "riseoftheplanetoftheapes": {
+    "title": "Rise of the Planet of the Apes",
+    "year": 2011,
+    "mediaid": "tt1318514",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "dawnoftheplanetoftheapes": {
+    "title": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "mediaid": "tt2103281",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "warfortheplanetoftheapes": {
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "mediaid": "tt3450958",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "kingdomoftheplanetoftheapes": {
+    "title": "Kingdom of the Planet of the Apes",
+    "year": 2024,
+    "mediaid": "tt11389872",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "elf": {
+    "title": "Elf",
+    "year": 2003,
+    "mediaid": "tt0319343",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thedictator": {
+    "title": "The Dictator",
+    "year": 2012,
+    "mediaid": "tt1645170",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "borat": {
+    "title": "Borat",
+    "year": 2006,
+    "mediaid": "tt0443453",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "boratsubsequentmoviefilm": {
+    "title": "Borat Subsequent Moviefilm",
+    "year": 2020,
+    "mediaid": "tt13143964",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "dasboot": {
+    "title": "Das Boot",
+    "year": 1981,
+    "mediaid": "tt0082096",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "absolutelyanything": {
+    "title": "Absolutely Anything",
+    "year": 2015,
+    "mediaid": "tt1727770",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "hollowmanii": {
+    "title": "Hollow Man II",
+    "year": 2006,
+    "mediaid": "tt0469916",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsenganginjutland": {
+    "title": "The Olsen Gang in Jutland",
+    "year": 1971,
+    "mediaid": "tt0067524",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengangrunsamok": {
+    "title": "The Olsen Gang Runs Amok",
+    "year": 1973,
+    "mediaid": "tt0070474",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "olsenbandenderuda": {
+    "title": "Olsen-banden deruda'",
+    "year": 1977,
+    "mediaid": "tt0076495",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsenganggoestowar": {
+    "title": "The Olsen Gang Goes to War",
+    "year": 1978,
+    "mediaid": "tt0078026",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengangneversurrenders": {
+    "title": "The Olsen Gang Never Surrenders",
+    "year": 1979,
+    "mediaid": "tt0079662",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsenganglonggone": {
+    "title": "The Olsen Gang Long Gone",
+    "year": 1981,
+    "mediaid": "tt0082842",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengangfinalmission": {
+    "title": "The Olsen Gang - Final Mission",
+    "year": 1998,
+    "mediaid": "tt0130156",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thelastexploitsoftheolsengang": {
+    "title": "The Last Exploits of the Olsen Gang",
+    "year": 1974,
+    "mediaid": "tt0071939",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "theolsengangonthetrack": {
+    "title": "The Olsen Gang on the Track",
+    "year": 1975,
+    "mediaid": "tt0073482",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "olsenbandenjunior": {
+    "title": "Olsen Banden Junior",
+    "year": 2001,
+    "mediaid": "tt0296788",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thejuniorolsengangrocksit": {
+    "title": "The Junior Olsen Gang Rocks It",
+    "year": 2004,
+    "mediaid": "tt0390320",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "olsenbandenjuniorgrundervann": {
+    "title": "Olsenbanden Junior går under vann",
+    "year": 2003,
+    "mediaid": "tt0387463",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thejuniorolsengangatthecircus": {
+    "title": "The Junior Olsen Gang at the Circus",
+    "year": 2006,
+    "mediaid": "tt0482121",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thejuniorolsengangandthesilverminemystery": {
+    "title": "The Junior Olsen Gang and the Silver Mine Mystery",
+    "year": 2007,
+    "mediaid": "tt0971172",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thejuniorolsengangandtheblackgold": {
+    "title": "The Junior Olsen Gang and the Black Gold",
+    "year": 2009,
+    "mediaid": "tt1208713",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thejuniorolsengangandthemasterthief": {
+    "title": "The Junior Olsen Gang and the Master Thief",
+    "year": 2010,
+    "mediaid": "tt1627927",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thenakedgun2thesmelloffear": {
+    "title": "The Naked Gun 2½: The Smell of Fear",
+    "year": 1991,
+    "mediaid": "tt0102510",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "nakedgun3313thefinalinsult": {
+    "title": "Naked Gun 33 1/3: The Final Insult",
+    "year": 1994,
+    "mediaid": "tt0110622",
+    "studio": "",
+    "description": "",
+    "language": ""
+  },
+  "thenakedgun": {
+    "title": "The Naked Gun",
+    "year": 2025,
+    "mediaid": "tt3402138",
+    "studio": "",
+    "description": "",
+    "language": ""
   }
 }
