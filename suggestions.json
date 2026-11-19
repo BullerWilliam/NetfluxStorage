@@ -438,5 +438,12 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "32efe417-e8bd-4ab7-b4f3-a1fd76e59911",
+    "text": "movies/series should not play while hidden with f1",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
