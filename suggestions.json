@@ -474,5 +474,13 @@
     "type": "movie",
     "imdb": "tt4627382",
     "checked": false
+  },
+  {
+    "suggestionId": "2d2964e0-0469-4f2d-a3c7-fff66499a9a2",
+    "text": "South Park",
+    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
+    "type": "series",
+    "imdb": "tt0121955",
+    "checked": false
   }
 ]
