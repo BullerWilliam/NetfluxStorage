@@ -5,7 +5,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "movie",
     "imdb": "tt32881442",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "9b77d4db-bf87-4382-bbda-e78b1ba63520",
@@ -13,7 +13,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "movie",
     "imdb": "tt30743549",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "e08e9021-a408-48dd-bdc7-15763e19c187",
@@ -21,7 +21,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "movie",
     "imdb": "tt0106965",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "caa4a940-0715-4765-9578-f3e1f521d971",
@@ -29,7 +29,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "movie",
     "imdb": "tt19623240",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "4cb13342-f0d3-45d2-81ad-328793b72fed",
@@ -44,7 +44,7 @@
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
     "type": "movie",
     "imdb": "tt7006206",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "99782925-0ea6-4c68-8520-e6e13951fbef",
@@ -52,7 +52,7 @@
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
     "type": "series",
     "imdb": "tt3551096",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "13a753f6-36e7-4419-8968-14c40093ea8b",
@@ -88,7 +88,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt1375666",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "2d8f52c1-63b3-4ec3-8c40-9bb97b906b16",
@@ -96,7 +96,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt6751668",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "3b5f7a2d-e4ad-46cd-9fed-201c5b0b11d1",
@@ -104,7 +104,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt15398776",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "2022a4cf-e54f-4df6-937c-5b44985a66d7",
@@ -112,7 +112,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt6644200",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "8e050880-d4f1-45e8-9410-95ce3acf98c5",
@@ -120,7 +120,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt5052448",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "c48408ff-41d4-4ca1-8960-35fd0d989ce1",
@@ -128,7 +128,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt10954984",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "361319e7-a6a1-4cf6-bd87-0b39b0d6b215",
@@ -136,7 +136,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0172495",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "20c25805-989b-4f82-93d7-06b2666a6d02",
@@ -144,7 +144,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt9218128",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "e6a1b2a7-cd73-4167-afbf-254cd25be25d",
@@ -152,7 +152,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt2582802",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "6e51fc66-b9b9-4afd-b24b-bf51373646a7",
@@ -160,7 +160,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt27817389",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "d1ab0b56-15ec-45db-abc1-5f2bd7c7fce1",
@@ -168,7 +168,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt11655202",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "a79f793c-2278-47a8-b1b7-2154a229c8c6",
@@ -176,7 +176,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0443706",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "601837d2-7c9a-471a-9196-29b6392ae28e",
@@ -184,7 +184,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt1680136",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "ab4f5835-a5ac-4713-9021-aa8aee38fe8d",
@@ -200,7 +200,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt37287335",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "ef8e9634-d1d9-481e-bffa-204edf24a980",
@@ -208,7 +208,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt3032476",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "93ecc711-5692-443b-a748-d266cbb6a0d1",
@@ -216,7 +216,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt10048342",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "3feeb425-32c5-4766-8441-436d3a6951e6",
@@ -224,7 +224,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt31938062",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "8d7a1c75-bc52-4364-b3da-d696946696c6",
@@ -232,7 +232,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0102926",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "1a961221-b502-43b2-985e-bd659f138710",
@@ -240,7 +240,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt33764258",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "318d8360-9ab8-4d1e-b14e-70cad2ea7572",
@@ -248,7 +248,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt7183732",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "348b398a-3f55-4d2a-8349-848b236279b7",
@@ -256,7 +256,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt1457767",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "1bbe01fe-2f88-4d9e-9ae3-ad67bf94178f",
@@ -272,7 +272,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0088247",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "de976c93-17c2-48b7-a146-e19b41bf755b",
@@ -280,7 +280,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt2911666",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "d69e1988-7592-4524-a5a9-68e19596b501",
@@ -296,7 +296,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0109830",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "39c29b23-9c77-4c1d-982f-aa4fef8b453a",
@@ -304,7 +304,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0095016",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "c60efdcd-c751-4340-80b6-42d3b10a546e",
@@ -312,7 +312,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "imdb": "tt0144084",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "a0ed314f-f4e4-4067-aa2f-13fabc7ef76d",
@@ -328,7 +328,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "series",
     "imdb": "tt33043892",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "208b1a9f-5811-4089-be67-cac43480aa18",
@@ -336,7 +336,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "series",
     "imdb": "tt0773262",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "03c7fcc6-3122-43b0-925b-0fb556d40f2c",
@@ -344,7 +344,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "series",
     "imdb": "tt14164730",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "3abae6af-d68f-4b9b-a46b-54d2b9a0c731",
@@ -352,7 +352,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "series",
     "imdb": "tt32252772",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "2a3a6584-d772-43fe-a874-1cfef8f081f4",
@@ -391,7 +391,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt0364845",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "7a91097e-0532-42b7-bb8b-e85888d3cd9c",
@@ -399,7 +399,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt0413573",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "f4f4e041-b716-4256-b17d-40202f0f25c9",
@@ -407,7 +407,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt0452046",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "867a0549-f26b-48b4-856a-bf03377bdf58",
@@ -415,7 +415,7 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "series",
     "imdb": "tt0397306",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "c9509ed0-649e-44b9-a7a8-92e6d5c47f9d",
@@ -465,7 +465,7 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "movie",
     "imdb": "tt4627382",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "2d2964e0-0469-4f2d-a3c7-fff66499a9a2",
@@ -473,6 +473,6 @@
     "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
     "type": "series",
     "imdb": "tt0121955",
-    "checked": false
+    "checked": true
   }
 ]
