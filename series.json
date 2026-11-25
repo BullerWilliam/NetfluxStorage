@@ -10641,5 +10641,150 @@
     "language": "",
     "imdb": "tt0898266",
     "seasons": []
+  },
+  "tt1595870": {
+    "title": "Dexter: Early Cuts",
+    "year": "2009",
+    "studio": "",
+    "description": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+    "language": "",
+    "imdb": "tt1595870",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Alex Timmons: Chapter One",
+            "description": "Dexter hunts Alex Timmons, a corrupt Gulf War veteran who used the cover of war to kill the innocent."
+          },
+          {
+            "number": 2,
+            "title": "Alex Timmons: Chapter Two",
+            "description": "Dexter sets his crosshairs on a marine sniper."
+          },
+          {
+            "number": 3,
+            "title": "Alex Timmons: Chapter Three",
+            "description": "Dexter stalks his prey."
+          },
+          {
+            "number": 4,
+            "title": "Alex Timmons: Chapter Four",
+            "description": "Dexter takes a trophy."
+          },
+          {
+            "number": 5,
+            "title": "Gene Marshall: Chapter One",
+            "description": "A young Dexter encounters arsonist Gene Marshall and is forced to rethink his methods."
+          },
+          {
+            "number": 6,
+            "title": "Gene Marshall: Chapter Two",
+            "description": "Dexter's next victim is about to get burned."
+          },
+          {
+            "number": 7,
+            "title": "Gene Marshall: Chapter Three",
+            "description": "Dexter's next kill is about to go up in smokes."
+          },
+          {
+            "number": 8,
+            "title": "Gene Marshall: Chapter Four",
+            "description": "Dexter gets the Slice of Life."
+          },
+          {
+            "number": 9,
+            "title": "Cindy Landon: Chapter One",
+            "description": "Black widow Cindy Landon: March 2004."
+          },
+          {
+            "number": 10,
+            "title": "Cindy Landon: Chapter Two",
+            "description": "Cindy Landon has a few tricks up her sleeve, and a few secrets to hide."
+          },
+          {
+            "number": 11,
+            "title": "Cindy Landon: Chapter Three",
+            "description": "Dexter feels magic in the air."
+          },
+          {
+            "number": 12,
+            "title": "Cindy Landon: Chapter Four",
+            "description": "Dexter makes Cindy disappear."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Dark Echo: Chapter One",
+            "description": "Dexter buries his father Harry and then attends college."
+          },
+          {
+            "number": 2,
+            "title": "Dark Echo: Chapter Two",
+            "description": "Dexter stalks a new victim, Criminology Professor Robert Milson."
+          },
+          {
+            "number": 3,
+            "title": "Dark Echo: Chapter Three",
+            "description": "A new year brings new victims for Dexter, this spring semester it's Jenna Lincoln."
+          },
+          {
+            "number": 4,
+            "title": "Dark Echo: Chapter Four",
+            "description": "Dexter tries to uncover the identity of his \"Dark Echo.\""
+          },
+          {
+            "number": 5,
+            "title": "Dark Echo: Chapter Five",
+            "description": "Dexter's \"Dark Echo\" meets his maker. Hunter, prey, let the games begin."
+          },
+          {
+            "number": 6,
+            "title": "Dark Echo: Chapter Six",
+            "description": "Dexter honors the code and the memory of Harry."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "All in the Family: Chapter One",
+            "description": "Dexter starts his own investigation to determine the killer of prostitute."
+          },
+          {
+            "number": 2,
+            "title": "All in the Family: Chapter Two",
+            "description": "Two weeks before New Year's Eve and Dexter continues his search for a killer to satisfy his dark cravings."
+          },
+          {
+            "number": 3,
+            "title": "All in the Family: Chapter Three",
+            "description": "Dexter receives some new clues in his hunt for the prostitute killer."
+          },
+          {
+            "number": 4,
+            "title": "All in the Family: Chapter Four",
+            "description": "Dexter flashes back to a childhood incident where Deborah sensed his darkness."
+          },
+          {
+            "number": 5,
+            "title": "All in the Family: Chapter Five",
+            "description": "Dexter digs up some family history in his hunt for the prostitute killer."
+          },
+          {
+            "number": 6,
+            "title": "All in the Family: Chapter Six",
+            "description": "Dexter faces off with Coleman Lindquist and his father in the final chapter of Early Cuts."
+          }
+        ]
+      }
+    ]
   }
 }
