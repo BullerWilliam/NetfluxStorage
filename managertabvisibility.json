@@ -3,11 +3,11 @@
   "featured": true,
   "series": true,
   "additions": true,
-  "api-additions": true,
+  "api-additions": false,
   "trashbin": true,
   "collections": true,
   "custom-collections": true,
-  "genres": true,
+  "genres": false,
   "users": true,
   "suggestions": true,
   "settings": true
