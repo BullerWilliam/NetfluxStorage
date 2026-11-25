@@ -2910,5 +2910,25 @@
     "second_lenght": 8040,
     "imdb": "tt1057500",
     "mediaid": "tt1057500"
+  },
+  "tt32881442": {
+    "title": "Monkey's Magic Merry Go Round",
+    "year": "2024",
+    "studio": "",
+    "description": "After a mysterious bout of amnesia, a beloved children’s television host struggles to piece together his fractured memories, only to find his once-cheerful puppet co-stars behaving with sinister intent. As reality unravels, the line between performance and nightmare begins to blur.",
+    "language": "",
+    "mediaid": "tt32881442",
+    "imdb": "tt32881442",
+    "second_lenght": 5460
+  },
+  "tt30743549": {
+    "title": "The Mouse Trap",
+    "year": "2024",
+    "studio": "",
+    "description": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+    "language": "eng",
+    "mediaid": "tt30743549",
+    "imdb": "tt30743549",
+    "second_lenght": 4800
   }
 }
