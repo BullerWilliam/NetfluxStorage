@@ -1,0 +1,14 @@
+{
+  "movies": true,
+  "featured": true,
+  "series": true,
+  "additions": true,
+  "api-additions": true,
+  "trashbin": true,
+  "collections": true,
+  "custom-collections": true,
+  "genres": true,
+  "users": true,
+  "suggestions": true,
+  "settings": true
+}
