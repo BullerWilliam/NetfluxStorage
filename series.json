@@ -122482,5 +122482,25 @@
     "language": "",
     "imdb": "tt21107718",
     "seasons": []
+  },
+  "tt30984167": {
+    "title": "Willy's Wonderland Comic Series Fan Dub",
+    "year": "2023",
+    "studio": "",
+    "description": "What came before the janitorial rampage in the 2021 cult horror flick? Find out here in this official prequel to the movie giving you all the party filled blood spatter you can handle. Willy, Ozzie, Arty, Cammy, Tito, Gus, Sara, a...",
+    "language": "",
+    "imdb": "tt30984167",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 0,
+            "title": "Willy's Wonderland Comic Series-Issue #1 Comic Dub(NOT FOR KIDS!)",
+            "description": ""
+          }
+        ]
+      }
+    ]
   }
 }
