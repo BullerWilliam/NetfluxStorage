@@ -25,5 +25,8 @@
   },
   "tt43749709": {
     "reason": "Neither movie or series"
+  },
+  "tt6816506": {
+    "reason": "Invalid IMDb ID"
   }
 }
