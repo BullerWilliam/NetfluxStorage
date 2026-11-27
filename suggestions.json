@@ -7,14 +7,6 @@
     "checked": false
   },
   {
-    "suggestionId": "99782925-0ea6-4c68-8520-e6e13951fbef",
-    "text": "fresh off the boat",
-    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
-    "type": "series",
-    "imdb": "tt3551096",
-    "checked": true
-  },
-  {
     "suggestionId": "13a753f6-36e7-4419-8968-14c40093ea8b",
     "text": "Change discord server icon",
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
@@ -51,38 +43,6 @@
     "checked": false
   },
   {
-    "suggestionId": "ef8e9634-d1d9-481e-bffa-204edf24a980",
-    "text": "dfg",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt3032476",
-    "checked": true
-  },
-  {
-    "suggestionId": "93ecc711-5692-443b-a748-d266cbb6a0d1",
-    "text": "fdg",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt10048342",
-    "checked": true
-  },
-  {
-    "suggestionId": "3feeb425-32c5-4766-8441-436d3a6951e6",
-    "text": "gfhfg",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt31938062",
-    "checked": true
-  },
-  {
-    "suggestionId": "318d8360-9ab8-4d1e-b14e-70cad2ea7572",
-    "text": "dsfsf",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt7183732",
-    "checked": true
-  },
-  {
     "suggestionId": "d69e1988-7592-4524-a5a9-68e19596b501",
     "text": "the hereytary",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
@@ -91,91 +51,11 @@
     "checked": false
   },
   {
-    "suggestionId": "a0ed314f-f4e4-4067-aa2f-13fabc7ef76d",
-    "text": "The Mentalist",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt1196946",
-    "checked": true
-  },
-  {
-    "suggestionId": "73e970a6-113d-4168-b313-2a1a6f8f892f",
-    "text": "Dexter: Resurrection",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt33043892",
-    "checked": true
-  },
-  {
-    "suggestionId": "208b1a9f-5811-4089-be67-cac43480aa18",
-    "text": "Dexter",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt0773262",
-    "checked": true
-  },
-  {
-    "suggestionId": "03c7fcc6-3122-43b0-925b-0fb556d40f2c",
-    "text": "Dexter: New Blood",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt14164730",
-    "checked": true
-  },
-  {
-    "suggestionId": "3abae6af-d68f-4b9b-a46b-54d2b9a0c731",
-    "text": "Dexter: Original Sin",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt32252772",
-    "checked": true
-  },
-  {
-    "suggestionId": "2a3a6584-d772-43fe-a874-1cfef8f081f4",
-    "text": "Dexter: Early Cuts",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt1595870",
-    "checked": false
-  },
-  {
     "suggestionId": "870b13fb-27ca-4e74-81ab-99430830074c",
     "text": "make mystery genre for scooby doo",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
-  },
-  {
-    "suggestionId": "3a97fe4b-4fd9-4258-bc27-df6c4daa7f0e",
-    "text": "theres more",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt0364845",
-    "checked": true
-  },
-  {
-    "suggestionId": "7a91097e-0532-42b7-bb8b-e85888d3cd9c",
-    "text": "more?",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt0413573",
-    "checked": true
-  },
-  {
-    "suggestionId": "f4f4e041-b716-4256-b17d-40202f0f25c9",
-    "text": "theres more",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt0452046",
-    "checked": true
-  },
-  {
-    "suggestionId": "867a0549-f26b-48b4-856a-bf03377bdf58",
-    "text": "ewfewfwef",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "series",
-    "imdb": "tt0397306",
-    "checked": true
   },
   {
     "suggestionId": "c9509ed0-649e-44b9-a7a8-92e6d5c47f9d",
@@ -218,14 +98,6 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
-  },
-  {
-    "suggestionId": "2d2964e0-0469-4f2d-a3c7-fff66499a9a2",
-    "text": "South Park",
-    "id": "e7c2f8eb-1dbe-40a8-a1cc-ef68453f4024",
-    "type": "series",
-    "imdb": "tt0121955",
-    "checked": true
   },
   {
     "suggestionId": "e9e0930e-d3df-49ab-bd9e-8a173e7cae3d",
