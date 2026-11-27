@@ -26,5 +26,26 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "cfbf475c-41f4-4f2c-9667-14c270f46bb0",
+    "text": "manager - tab sections",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
+  },
+  {
+    "suggestionId": "6b149a04-b98f-44c5-87a1-62f6a88b5869",
+    "text": "make homepage",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
+  },
+  {
+    "suggestionId": "28d17de5-2229-4fe4-9588-1535c78e3e2f",
+    "text": "analytic graphs",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
