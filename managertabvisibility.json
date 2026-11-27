@@ -7,7 +7,6 @@
   "trashbin": true,
   "collections": true,
   "custom-collections": true,
-  "genres": false,
   "users": true,
   "suggestions": true,
   "settings": true
