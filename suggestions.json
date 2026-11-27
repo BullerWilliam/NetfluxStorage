@@ -97,5 +97,12 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "fa48fbaf-37e2-4b1d-b0d5-165a934541fc",
+    "text": "tt3729018: IMDb did not provide a poster image.\ntt43660825: IMDb did not provide a poster image.",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "checked": false
   }
 ]
