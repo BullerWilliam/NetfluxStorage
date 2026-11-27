@@ -274,5 +274,12 @@
     "type": "movie",
     "imdb": "tt1003542",
     "checked": false
+  },
+  {
+    "suggestionId": "4490b007-8664-4637-87c2-7b030a3947fb",
+    "text": "non netflux - make .ps1 script that can run any apps",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
