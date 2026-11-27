@@ -35,22 +35,6 @@
     "checked": false
   },
   {
-    "suggestionId": "ab4f5835-a5ac-4713-9021-aa8aee38fe8d",
-    "text": "dfgdfg",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "movie",
-    "imdb": "tt0095800",
-    "checked": false
-  },
-  {
-    "suggestionId": "d69e1988-7592-4524-a5a9-68e19596b501",
-    "text": "the hereytary",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "movie",
-    "imdb": "tt30872576",
-    "checked": false
-  },
-  {
     "suggestionId": "870b13fb-27ca-4e74-81ab-99430830074c",
     "text": "make mystery genre for scooby doo",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
@@ -97,46 +81,6 @@
     "text": "manager - tab icons should be from microsoft icon pack",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
-    "checked": false
-  },
-  {
-    "suggestionId": "e9e0930e-d3df-49ab-bd9e-8a173e7cae3d",
-    "text": "Untitled Free Willy Project",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt43660825",
-    "checked": false
-  },
-  {
-    "suggestionId": "158ba884-efaf-49e3-ac66-47080b6f21cf",
-    "text": "The Free Willy Story - Keiko's Journey Home",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt3729018",
-    "checked": false
-  },
-  {
-    "suggestionId": "be600543-5075-4bda-ac65-55fb0cb26423",
-    "text": "The Serpent and the Rainbow",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt0096071",
-    "checked": false
-  },
-  {
-    "suggestionId": "9adb979b-4023-433c-9b13-fca958d01ac2",
-    "text": "A.I. Artificial Intelligence",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt0212720",
-    "checked": false
-  },
-  {
-    "suggestionId": "fe205dbf-7d71-46c4-81b3-0ff2ea086416",
-    "text": "Terra Willy",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt8329148",
     "checked": false
   },
   {
