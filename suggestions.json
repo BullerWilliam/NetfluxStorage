@@ -482,5 +482,13 @@
     "type": "movie",
     "imdb": "tt0096071",
     "checked": false
+  },
+  {
+    "suggestionId": "9adb979b-4023-433c-9b13-fca958d01ac2",
+    "text": "A.I. Artificial Intelligence",
+    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
+    "type": "movie",
+    "imdb": "tt0212720",
+    "checked": false
   }
 ]
