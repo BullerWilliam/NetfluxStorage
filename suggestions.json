@@ -47,5 +47,12 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
+  },
+  {
+    "suggestionId": "1c077de1-de8c-4bdd-9fbe-6d8b063c05c7",
+    "text": "when pressing escape on quit netflux popup then close",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "app",
+    "checked": false
   }
 ]
