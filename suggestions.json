@@ -7,22 +7,8 @@
     "checked": false
   },
   {
-    "suggestionId": "13a753f6-36e7-4419-8968-14c40093ea8b",
-    "text": "Change discord server icon",
-    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
-    "type": "app",
-    "checked": false
-  },
-  {
     "suggestionId": "6deb3695-656d-449b-911d-dc1ef3b28b2f",
     "text": "last online label - update every 2 minutes",
-    "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
-    "type": "app",
-    "checked": false
-  },
-  {
-    "suggestionId": "7a10b1c1-921b-4be3-9dce-411379081428",
-    "text": "change tab order in settings on manager",
     "id": "ea2de946-5372-45ee-89a6-3c67e658bf11",
     "type": "app",
     "checked": false
@@ -36,7 +22,7 @@
   },
   {
     "suggestionId": "870b13fb-27ca-4e74-81ab-99430830074c",
-    "text": "make mystery genre for scooby doo",
+    "text": "make mystery/horror genres",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
