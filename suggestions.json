@@ -46,7 +46,7 @@
     "text": "manager -the copy buttons on movie cards in the movies tab have the highest zindex on the entire page so they are over everything even the top bar when scrolling",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
-    "checked": false
+    "checked": true
   },
   {
     "suggestionId": "32efe417-e8bd-4ab7-b4f3-a1fd76e59911",
