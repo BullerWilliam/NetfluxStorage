@@ -84,14 +84,6 @@
     "checked": false
   },
   {
-    "suggestionId": "e1be4701-97be-4a65-a7ac-d7fde4692a2d",
-    "text": "Willy",
-    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
-    "type": "movie",
-    "imdb": "tt1003542",
-    "checked": false
-  },
-  {
     "suggestionId": "4490b007-8664-4637-87c2-7b030a3947fb",
     "text": "non netflux - make .ps1 script that can run any apps",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
