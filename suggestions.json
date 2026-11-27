@@ -474,5 +474,13 @@
     "type": "movie",
     "imdb": "tt3729018",
     "checked": false
+  },
+  {
+    "suggestionId": "be600543-5075-4bda-ac65-55fb0cb26423",
+    "text": "The Serpent and the Rainbow",
+    "id": "a4643ac8-e613-4e0d-bb65-5fa66c44fa61",
+    "type": "movie",
+    "imdb": "tt0096071",
+    "checked": false
   }
 ]
