@@ -21,13 +21,6 @@
     "checked": false
   },
   {
-    "suggestionId": "c9509ed0-649e-44b9-a7a8-92e6d5c47f9d",
-    "text": "manager -the copy buttons on movie cards in the movies tab have the highest zindex on the entire page so they are over everything even the top bar when scrolling",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "app",
-    "checked": true
-  },
-  {
     "suggestionId": "32efe417-e8bd-4ab7-b4f3-a1fd76e59911",
     "text": "movies/series should not play while hidden with f1",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
@@ -44,13 +37,6 @@
   {
     "suggestionId": "b6cfe404-1a74-4844-84df-c00a058e96d8",
     "text": "from netflux app in settings there should be a ping button that then shows something on that user in the users tab",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "app",
-    "checked": false
-  },
-  {
-    "suggestionId": "0a25b944-28a2-4f94-9715-a5a0d28220a6",
-    "text": "manager - tab icons should be from microsoft icon pack",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
