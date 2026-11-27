@@ -104,5 +104,19 @@
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "movie",
     "checked": false
+  },
+  {
+    "suggestionId": "1b1e6ebb-36ab-4497-ba94-46a872f9ac0c",
+    "text": "chineese mom",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "series",
+    "checked": false
+  },
+  {
+    "suggestionId": "b4fe21ed-336c-4f29-aae2-5306f7bf1495",
+    "text": "georgie and mandys first marriage",
+    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
+    "type": "movie",
+    "checked": false
   }
 ]
