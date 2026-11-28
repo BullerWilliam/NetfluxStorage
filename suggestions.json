@@ -1,19 +1,5 @@
 [
   {
-    "suggestionId": "32efe417-e8bd-4ab7-b4f3-a1fd76e59911",
-    "text": "movies/series should not play while hidden with f1",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "app",
-    "checked": false
-  },
-  {
-    "suggestionId": "53a65c95-3a7c-4c78-b844-38b47505c602",
-    "text": "the movie player ui is still visible while hidden using f1",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "app",
-    "checked": false
-  },
-  {
     "suggestionId": "4490b007-8664-4637-87c2-7b030a3947fb",
     "text": "non netflux - make .ps1 script that can run any apps",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
@@ -44,13 +30,6 @@
   {
     "suggestionId": "28d17de5-2229-4fe4-9588-1535c78e3e2f",
     "text": "analytic graphs",
-    "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
-    "type": "app",
-    "checked": false
-  },
-  {
-    "suggestionId": "1c077de1-de8c-4bdd-9fbe-6d8b063c05c7",
-    "text": "when pressing escape on quit netflux popup then close",
     "id": "2bf2a744-ff62-4992-a8eb-9632fc01018e",
     "type": "app",
     "checked": false
