@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "id": "section-92518bda-b5fe-4605-ae6c-ddfa5869e17a",
+      "name": "Titles"
+    },
+    {
+      "id": "section-c62aba17-a0af-450c-86d6-f92d8f71833e",
+      "name": "Users"
+    },
+    {
+      "id": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
+      "name": "Manager"
+    }
+  ],
+  "assignments": {
+    "movies": "section-92518bda-b5fe-4605-ae6c-ddfa5869e17a",
+    "series": "section-92518bda-b5fe-4605-ae6c-ddfa5869e17a",
+    "collections": "section-92518bda-b5fe-4605-ae6c-ddfa5869e17a",
+    "featured": "section-92518bda-b5fe-4605-ae6c-ddfa5869e17a",
+    "users": "section-c62aba17-a0af-450c-86d6-f92d8f71833e",
+    "suggestions": "section-c62aba17-a0af-450c-86d6-f92d8f71833e",
+    "custom-collections": "section-c62aba17-a0af-450c-86d6-f92d8f71833e",
+    "api-additions": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
+    "additions": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
+    "trashbin": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
+    "analytics": "section-10f651be-f61c-46f4-b134-29dad3b170a8"
+  }
+}
