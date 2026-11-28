@@ -128105,5 +128105,195 @@
         ]
       }
     ]
+  },
+  "tt0805815": {
+    "title": "Cory in the House",
+    "year": "2007",
+    "studio": "",
+    "description": "Cory Baxter moves to the White House in Washington, DC when his father Victor, is named the new personal White House chef of the President.",
+    "language": "",
+    "imdb": "tt0805815",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "New Kid In Town",
+            "description": ""
+          },
+          {
+            "number": 2,
+            "title": "Ain't Miss Bahavian",
+            "description": ""
+          },
+          {
+            "number": 3,
+            "title": "Everybody Loves Meena",
+            "description": ""
+          },
+          {
+            "number": 4,
+            "title": "We Built This Kitty On Rock & Roll",
+            "description": ""
+          },
+          {
+            "number": 5,
+            "title": "Rock the Vote",
+            "description": ""
+          },
+          {
+            "number": 6,
+            "title": "Napper's Delight",
+            "description": ""
+          },
+          {
+            "number": 7,
+            "title": "Smells Like School Spirit",
+            "description": ""
+          },
+          {
+            "number": 8,
+            "title": "Just Desserts",
+            "description": ""
+          },
+          {
+            "number": 9,
+            "title": "Bahavian Idol",
+            "description": ""
+          },
+          {
+            "number": 10,
+            "title": "Beat the Press",
+            "description": ""
+          },
+          {
+            "number": 11,
+            "title": "Mall of Confusion",
+            "description": ""
+          },
+          {
+            "number": 12,
+            "title": "Get Smarter",
+            "description": ""
+          },
+          {
+            "number": 13,
+            "title": "And the Weenie Is...",
+            "description": ""
+          },
+          {
+            "number": 14,
+            "title": "No, No Nanoosh",
+            "description": ""
+          },
+          {
+            "number": 15,
+            "title": "Air Force One Too Many",
+            "description": ""
+          },
+          {
+            "number": 16,
+            "title": "That's So In the House",
+            "description": ""
+          },
+          {
+            "number": 17,
+            "title": "Gone Wishin'",
+            "description": ""
+          },
+          {
+            "number": 18,
+            "title": "I Ain't Got Rhythm",
+            "description": ""
+          },
+          {
+            "number": 19,
+            "title": "The Kung Fu Kats Kid",
+            "description": ""
+          },
+          {
+            "number": 20,
+            "title": "A Rat By Any Other Name",
+            "description": ""
+          },
+          {
+            "number": 21,
+            "title": "Never the Dwayne Shall Meet",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "The Presidential Seal",
+            "description": ""
+          },
+          {
+            "number": 2,
+            "title": "Through the Roof",
+            "description": ""
+          },
+          {
+            "number": 3,
+            "title": "Monster's Ball",
+            "description": ""
+          },
+          {
+            "number": 4,
+            "title": "Lip Service",
+            "description": ""
+          },
+          {
+            "number": 5,
+            "title": "Who Let the Dolls Out?",
+            "description": ""
+          },
+          {
+            "number": 6,
+            "title": "We Don't Have Chemistry",
+            "description": ""
+          },
+          {
+            "number": 7,
+            "title": "Uninvited Pest",
+            "description": ""
+          },
+          {
+            "number": 8,
+            "title": "Making the Braid",
+            "description": ""
+          },
+          {
+            "number": 9,
+            "title": "Model Behavior",
+            "description": ""
+          },
+          {
+            "number": 10,
+            "title": "Sittin' Pretty",
+            "description": ""
+          },
+          {
+            "number": 11,
+            "title": "Macho Libre",
+            "description": ""
+          },
+          {
+            "number": 12,
+            "title": "Peace, Love and Misunderstanding",
+            "description": ""
+          },
+          {
+            "number": 13,
+            "title": "Mad Songs Pay So Much",
+            "description": ""
+          }
+        ]
+      }
+    ]
   }
 }
