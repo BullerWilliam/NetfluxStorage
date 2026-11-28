@@ -6,8 +6,9 @@
   "api-additions": false,
   "trashbin": true,
   "collections": true,
-  "custom-collections": true,
+  "custom-collections": false,
   "users": true,
+  "analytics": true,
   "suggestions": true,
   "settings": true
 }
