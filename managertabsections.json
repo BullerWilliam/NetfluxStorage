@@ -25,5 +25,6 @@
     "additions": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
     "trashbin": "section-10f651be-f61c-46f4-b134-29dad3b170a8",
     "analytics": "section-10f651be-f61c-46f4-b134-29dad3b170a8"
-  }
+  },
+  "showStorageStatus": false
 }
