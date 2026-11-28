@@ -1,0 +1,23 @@
+{
+  "days": {
+    "2026-11-28": {
+      "total": 1,
+      "titles": {
+        "minecraftmovie": 1
+      },
+      "hours": {
+        "16": {
+          "minecraftmovie": 1
+        }
+      },
+      "users": {
+        "c427f56e-c9fd-4d78-af93-2147bfe0d5d4": 1
+      },
+      "titleUsers": {
+        "minecraftmovie": {
+          "c427f56e-c9fd-4d78-af93-2147bfe0d5d4": 1
+        }
+      }
+    }
+  }
+}
